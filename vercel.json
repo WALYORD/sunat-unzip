@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/descomprimir.js": {
+      "maxDuration": 30
+    }
+  }
+}
