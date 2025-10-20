@@ -1,6 +1,6 @@
 {
   "functions": {
-    "api/descomprimir.js": {
+    "api/unzip.js": {
       "maxDuration": 30
     }
   }
