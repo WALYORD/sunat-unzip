@@ -1,0 +1,11 @@
+{
+  "name": "sunat-unzip",
+  "version": "1.0.0",
+  "description": "Descompresor de archivos SUNAT",
+  "scripts": {
+    "dev": "node api/descomprimir.js"
+  },
+  "dependencies": {
+    "adm-zip": "^0.5.0"
+  }
+}
