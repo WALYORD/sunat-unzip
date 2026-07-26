@@ -3,8 +3,14 @@
     "api/unzip.js": {
       "maxDuration": 30
     },
+    "api/unzipbin.js": {
+      "maxDuration": 30
+    },
     "api/extraer-bcp.js": {
-      "maxDuration": 60
+      "maxDuration": 60,
+      "includeFiles": [
+        "node_modules/pdfjs-dist/legacy/build/pdf.worker.js"
+      ]
     }
   }
 }
