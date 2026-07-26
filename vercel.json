@@ -2,6 +2,9 @@
   "functions": {
     "api/unzip.js": {
       "maxDuration": 30
+    },
+    "api/extraer-bcp.js": {
+      "maxDuration": 60
     }
   }
 }
